@@ -1,0 +1,4 @@
+Rencana konten
+
+- Membuat video programming
+- Membuat video database
