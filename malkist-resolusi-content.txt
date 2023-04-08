@@ -3,7 +3,7 @@ Rencana konten
 - Membuat video programming
   > desk tentang python
   > desk tentang ruby
-  > desk tentang struktur data dasar
+  > desk tentang php
   > desk tentang JS
 - Membuat video database
 - Membuat Video GIT
