@@ -1,0 +1,6 @@
+Rencana konten
+
+- Membuat video programming
+  > desk tentang python
+  > desk tentang ruby
+- Membuat video database
