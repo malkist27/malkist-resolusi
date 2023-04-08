@@ -2,3 +2,5 @@ Resolusi Malksit
 - Konsisten untuk membuat konten sebanyak 2x seminggu
 - Membuat aplikasi kasir lebih canggih
 - Membuat forum diskusi
+- Membuat website pencari kerja
+- Kolaborasi dengan banyak CEO
