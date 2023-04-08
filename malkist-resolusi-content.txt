@@ -3,5 +3,5 @@ Rencana konten
 - Membuat video programming
   > desk tentang python
   > desk tentang ruby
-  > desk tentang struktur data dasar
+  > desk tentang php
 - Membuat video database
