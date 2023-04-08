@@ -4,5 +4,6 @@ Rencana konten
   > desk tentang python
   > desk tentang ruby
   > desk tentang struktur data dasar
+  > desk tentang JS
 - Membuat video database
 - Membuat Video GIT
