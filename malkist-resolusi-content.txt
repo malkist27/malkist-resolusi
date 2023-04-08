@@ -5,3 +5,4 @@ Rencana konten
   > desk tentang ruby
   > desk tentang struktur data dasar
 - Membuat video database
+- Membuat Video GIT
