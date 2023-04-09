@@ -7,3 +7,5 @@ Rencana konten
   > desk tentang JS
 - Membuat video database
 - Membuat Video GIT
+- Membuat video Raspberry
+- Membuat video lain lain
