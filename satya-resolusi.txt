@@ -1,0 +1,2 @@
+Membuat aplikasi kasir terbaik dan gratis untuk semua
+dengan menggunakan PHP dan MySQL.
